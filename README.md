@@ -1,4 +1,4 @@
-# Hi there, I'm Sindhu Neupane! 👋
+# Hi there, I'm Sirago! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cybersecurity+Analyst;Triage+Analyst;Security+Researcher" alt="Typing SVG" />
