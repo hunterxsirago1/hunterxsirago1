@@ -1,4 +1,4 @@
-# Hi there, I'm Hunter! 👋
+# Hi there, I'm Sindhu Neupane! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cybersecurity+Analyst;Triage+Analyst;Security+Researcher" alt="Typing SVG" />
@@ -10,7 +10,16 @@
 - 🔭 I’m currently focused on **Vulnerability Triage** and **Threat Analysis**.
 - 🌱 I’m passionate about securing modern infrastructure, incident response, and hunting for bugs.
 - 💬 Ask me about **Cybersecurity, Threat Hunting, and Infrastructure Security**.
-- 📫 How to reach me: Open an issue on any of my repositories!
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/sindhu-neupane3/)!
+
+---
+
+### 🏆 Vulnerability Disclosures (CVEs)
+I have responsibly disclosed several critical vulnerabilities across open-source projects:
+- **CVE-2026-30887**: Remote Code Execution (RCE) via OS Command Injection in `@oneuptime/common`
+- **CVE-2026-28409**: Remote Code Execution (RCE) via OS Command Injection in `WeGIA`
+- **CVE-2026-28411**: Authentication Bypass vulnerability in `WeGIA`
+- **CVE-2026-31896**: Time-Based Blind SQL Injection (`remover_produto_ocultar.php`)
 
 ---
 
