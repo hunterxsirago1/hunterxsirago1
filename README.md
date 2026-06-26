@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF00&height=300&section=header&text=Sirago&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20|%20Vulnerability%20Triage&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF00&height=300&section=header&text=Sirago&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Security/Triage%20Analyst&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
     <td width="50%" valign="top">
       <h2 align="center">🕵️‍♂️ Who am I?</h2>
       <p align="center">
-        Hey there! I'm a Triage Analyst and security researcher who loves pulling things apart to see how they work (and how they break). When I'm not hunting down vulnerabilities or securing infrastructure, <b>I dabble in code as well</b>, building scripts and tools to make security automation a breeze.
+        Hey there! I'm a Security/Triage Analyst who loves pulling things apart to see how they work (and how they break). When I'm not hunting down vulnerabilities or securing infrastructure, <b>I dabble in code as well</b>, building scripts and tools to make security automation a breeze.
       </p>
       <ul>
         <li>📫 <b>Let's chat:</b> <a href="https://www.linkedin.com/in/sindhu-neupane3/">Hit me up on LinkedIn</a></li>
@@ -26,10 +26,10 @@
       <br>
       <h2 align="center">🏆 Some cool bugs I've found</h2>
       <ul>
-        <li><b>CVE-2026-30887</b>: Found an RCE via Command Injection in <code>@oneuptime/common</code></li>
-        <li><b>CVE-2026-28409</b>: Popped an RCE in <code>WeGIA</code></li>
-        <li><b>CVE-2026-28411</b>: Discovered an Auth Bypass in <code>WeGIA</code></li>
-        <li><b>CVE-2026-31896</b>: Found a Blind SQLi vulnerability</li>
+        <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-30887"><b>CVE-2026-30887</b></a>: Found an RCE via Command Injection in <code>@oneuptime/common</code></li>
+        <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-28409"><b>CVE-2026-28409</b></a>: Popped an RCE in <code>WeGIA</code></li>
+        <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-28411"><b>CVE-2026-28411</b></a>: Discovered an Auth Bypass in <code>WeGIA</code></li>
+        <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-31896"><b>CVE-2026-31896</b></a>: Found a Blind SQLi vulnerability</li>
       </ul>
     </td>
     <td width="50%" valign="top">
