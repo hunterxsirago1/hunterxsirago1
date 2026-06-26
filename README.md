@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hunting+for+Bugs+and+Securing+Systems;Zero-Day+Research+%26+Threat+Analysis;Open+Source+Security+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hunting+for+Bugs+and+Securing+Systems;Zero-Day+Research+%26+Threat+Analysis;I+also+dabble+in+code!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,24 +16,24 @@
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td width="50%" valign="top">
-      <h2 align="center">🕵️‍♂️ About Me</h2>
+      <h2 align="center">🕵️‍♂️ Who am I?</h2>
+      <p align="center">
+        Hey there! I'm a Triage Analyst and security researcher who loves pulling things apart to see how they work (and how they break). When I'm not hunting down vulnerabilities or securing infrastructure, <b>I dabble in code as well</b>, building scripts and tools to make security automation a breeze.
+      </p>
       <ul>
-        <li>🔭 <b>Focus:</b> Vulnerability Triage & Threat Hunting</li>
-        <li>🌱 <b>Passions:</b> Infrastructure Security & Incident Response</li>
-        <li>💡 <b>Interests:</b> Exploit Development & Security Automation</li>
-        <li>📫 <b>Contact:</b> <a href="https://www.linkedin.com/in/sindhu-neupane3/">Connect on LinkedIn</a></li>
+        <li>📫 <b>Let's chat:</b> <a href="https://www.linkedin.com/in/sindhu-neupane3/">Hit me up on LinkedIn</a></li>
       </ul>
       <br>
-      <h2 align="center">🏆 Critical Disclosures</h2>
+      <h2 align="center">🏆 Some cool bugs I've found</h2>
       <ul>
-        <li><b>CVE-2026-30887</b>: RCE via Command Injection (<code>@oneuptime/common</code>)</li>
-        <li><b>CVE-2026-28409</b>: Remote Code Execution in <code>WeGIA</code></li>
-        <li><b>CVE-2026-28411</b>: Authentication Bypass in <code>WeGIA</code></li>
-        <li><b>CVE-2026-31896</b>: Time-Based Blind SQLi</li>
+        <li><b>CVE-2026-30887</b>: Found an RCE via Command Injection in <code>@oneuptime/common</code></li>
+        <li><b>CVE-2026-28409</b>: Popped an RCE in <code>WeGIA</code></li>
+        <li><b>CVE-2026-28411</b>: Discovered an Auth Bypass in <code>WeGIA</code></li>
+        <li><b>CVE-2026-31896</b>: Found a Blind SQLi vulnerability</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center">📈 Arsenal & Stats</h2>
+      <h2 align="center">📈 Live Stats</h2>
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=hunterxsirago1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
         <br><br>
@@ -45,7 +45,7 @@
 
 <br>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,powershell,windows,aws,regex,nginx,rust,go,kali&perline=14" />
